@@ -1,3 +1,8 @@
+//normal workflow
+//**
+//first clone the git repo then make changes and thne commit and push to the repo
+
+//git clone <link>
 1.  git add <fileName>   //to add the file 
     or
    git add .        //to add all the files 
@@ -10,3 +15,15 @@
 2.   git commit -m "some meassage"    //to commit the changes ,add some meaning message to track the changes
 
 3.   git push origin main             //to push to the github to the main branch
+
+
+
+
+//make new folder in vscode and add to the github
+
+1.   git init
+2.   git remote add origin <link>
+3.   git remote -v     //to verify remote
+4.   git branch          //to check branch
+5.   git branch -M main   //to rename branch
+6.   git puch origin main
