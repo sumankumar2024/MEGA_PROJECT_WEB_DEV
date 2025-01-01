@@ -1,0 +1,11 @@
+1.  git add <fileName>   //to add the file 
+    or
+   git add .        //to add all the files 
+
+//git status (to show the status of the changes made)
+//if staged then it means it need to be commit
+
+
+2.   git commit -m "some meassage"    //to commit the changes ,add some meaning message to track the changes
+
+3.   git push origin main             //to push to the github to the main branch
