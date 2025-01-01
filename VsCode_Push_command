@@ -4,6 +4,7 @@
 
 //git status (to show the status of the changes made)
 //if staged then it means it need to be commit
+//if modified then it need to be add 
 
 
 2.   git commit -m "some meassage"    //to commit the changes ,add some meaning message to track the changes
